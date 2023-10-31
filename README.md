@@ -1,7 +1,5 @@
 ![GitHub Cards Preview](https://github.com/JahidHasanCO/Calculator-App/blob/master/ART/cover.png)
 
-# Calculator
-
 
 
 ## Characteristics 
