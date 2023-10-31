@@ -15,7 +15,3 @@
 ## App Screen
 
 <img src="https://github.com/JahidHasanCO/Calculator-App/blob/master/ART/Calculator.png" width="270" height="585">    <img src="https://github.com/JahidHasanCO/Calculator-App/blob/master/ART/Calculator-Dark.png" width="270" height="585">
-
-```
-
-
